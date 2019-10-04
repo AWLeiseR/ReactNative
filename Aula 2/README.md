@@ -1,23 +1,15 @@
-# Primeiro Projeto
+# ReactNative
+## Repositório destinado ao curso de react-native
 
-### Criando um Projeto
+[Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201)
 
-Escolha um diretório(pasta) para armazenar seus projetos. A seguir acesse ele pelo terminal(CMD).
+[Aula 2 - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
+# Segunda aula
 
-`$ cd diretorioSelecionado`
+[Pdf da aula](Link_do_pdf)
 
-Após isso execute o comando
+### Noções basias de JavaScript
 
-`$ react-native init meuPrimeiroProjeto`
+* Para mais os curiosos aqui está um site com mais informações sobre o tópico
 
-Esse comando irá criar um novo diretório com o nome `meuPrimeiroProjeto` dentro do `diretorioSelecionado`. Esse processo irá demorar um tempo.
-
-Depois de concluído esse processo, abra o seu emulador ou conecte seu celular ao computador, e execute o comando `$ cd meuPrimeiroProjeto` para entrar no diretório criado pelo React Native. Com isso, podemos iniciar nosso projeto através do comando `$ react-native run-android`.
-
-Se tudo ocorrer como esperado o resultado deve ser igual a imagem a seguir.
-
-![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%202/meuPrimeiroProjeto.png)
-
-* Obs: não fechem a janela do node que irá abrir no decorrer do processo. 
-
-Seção Anterior: [Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) [Início](https://github.com/AWLeiseR/ReactNative) 
+[ Material de apoio sobre JavaScript ](https://blog.rocketseat.com.br/as-melhores-features-do-es6-es7-e-es8/)
