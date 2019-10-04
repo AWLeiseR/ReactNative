@@ -6,7 +6,7 @@
 [Aula 2 - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
 # Segunda aula
 
-[Pdf da aula](Link_do_pdf)
+[Pdf da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%202/Conceitos_de_Java_Script.pdf)
 
 ### Noções basias de JavaScript
 
