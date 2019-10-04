@@ -20,16 +20,4 @@ Se tudo ocorrer como esperado o resultado deve ser igual a imagem a seguir.
 
 * Obs: não fechem a janela do node que irá abrir no decorrer do processo. 
 
-###  Alguns conceitos de JavaScript
-
-#### Herança
-
-#### Objetos
-
-#### Spread Descontruction
-
-#### Async e Await
-
-### Component
-
-Seção Anterior: [Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) [Início](https://github.com/AWLeiseR/ReactNative) 
+Seção Anterior: [Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) [Início](https://github.com/AWLeiseR/ReactNative) Proxima aula: [Aula 2 - Conceitos de JavaScript](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)

@@ -4,7 +4,7 @@
 
 ### Noções basias de JavaScript
 
-* Para mais os curiosos aqui está um site com mais informações sobre o tópico
+* Para os mais curiosos aqui está um site com mais informações sobre o tópico
 
 [ Material de apoio sobre JavaScript ](https://blog.rocketseat.com.br/as-melhores-features-do-es6-es7-e-es8/)
 
