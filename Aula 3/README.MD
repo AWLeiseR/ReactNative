@@ -1,10 +1,10 @@
 # Terceira aula
 
+### Components
+
 [Pdf da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%203/Componentes%20-%20Parte%201.pdf)
 
 [Código da Prática 1](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%203/App.js)
-
-### Components
 
 ### Algumas extensões para o Visual Studio Code
 
