@@ -1,6 +1,6 @@
 # Quarta Aula - Components e Estado (state)
 
-[Material extra](https://facebook.github.io/react-native/docs/state)
+[Material extra (State)](https://facebook.github.io/react-native/docs/state)
 
 [PDF da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/Componentes%20e%20Estados.pdf)
 
@@ -68,24 +68,24 @@ export default App
 
 #### Algumas observações
 
-* Componetes: a primeira letra sempre maiúscula. Por exemplo: `MeuBotao`, `Text`, `TouchableOpacity`
+* Componetes: a primeira letra sempre maiúscula. Por exemplo: `MeuBotao`, `Text`, `TouchableOpacity`.
 
-* Importação de componentes: ` import NomeDoComponente from './NomeDoarquivo' `
+* Importação de componentes: ` import NomeDoComponente from './NomeDoArquivo' `.
 
 * **export default** deve conter o nome da classe e não do arquivo. Por exemplo:
-`export default NomeDaClasse`
+`export default NomeDaClasse`.
 
 #### Desafios
 
 * Desafio 1
 
-    Fazer um Componente que seja um botão que conte a quantidade de clicks que foram dados
+    Fazer um Componente que seja um botão que conte a quantidade de clicks que foram dados. Semelhante ao exemplo abaixo.
 
     ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/desafio1.gif)
 
 * Desafio 2
 
-    Fazer Componente que seja um botão que tenha como frase `Esse botão foi pressionado: X vezes`, sendo que X é o numero de vezes
+    Fazer Componente que seja um botão que tenha como frase `Esse botão foi pressionado: X vezes`, sendo que X é o numero de vezes. Semelhante ao exemplo abaixo.
 
     ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/desafio2.gif)
 
