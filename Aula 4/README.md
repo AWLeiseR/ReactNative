@@ -2,7 +2,7 @@
 
 [Material extra](https://facebook.github.io/react-native/docs/state)
 
-[PDF da aula]()
+[PDF da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/Componentes%20e%20Estados.pdf)
 
 ### Segue abaixo os códigos feitos em aula
 
@@ -81,12 +81,12 @@ export default App
 
     Fazer um Componente que seja um botão que conte a quantidade de clicks que foram dados
 
-    [](desafio1.gif)
+    ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/desafio1.gif)
 
 * Desafio 2
 
     Fazer Componente que seja um botão que tenha como frase `Esse botão foi pressionado: X vezes`, sendo que X é o numero de vezes
 
-    [](desafio2.gif)
+    ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/desafio2.gif)
 
 Seção anterior: [Aula 3 - Componentes](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%203) [Início](https://github.com/AWLeiseR/ReactNative) 
