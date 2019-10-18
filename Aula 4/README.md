@@ -89,4 +89,10 @@ export default App
 
     ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%204/desafio2.gif)
 
-Seção anterior: [Aula 3 - Componentes](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%203) [Início](https://github.com/AWLeiseR/ReactNative) 
+## Veja também
+
+Seção anterior: 
+
+[Aula 3 - Componentes](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%203)
+
+[Início](https://github.com/AWLeiseR/ReactNative) 

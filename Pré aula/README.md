@@ -20,4 +20,14 @@ Se tudo ocorrer como esperado o resultado deve ser igual a imagem a seguir.
 
 * Obs: não fechem a janela do node que irá abrir no decorrer do processo. 
 
-Seção Anterior: [Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) [Início](https://github.com/AWLeiseR/ReactNative) Proxima aula: [Aula 2 - Conceitos de JavaScript](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
+## Veja também
+
+Seção Anterior: 
+
+[Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) 
+
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Proxima seção:
+
+ [Aula 2 - Conceitos de JavaScript](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
