@@ -78,7 +78,7 @@ export default App
 
 * segue um exemplo de como deve ficar o app
 
-![]()
+![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%205/calculadoraIMC.gif)
 
 ## Veja também
 
