@@ -13,3 +13,7 @@
 [Aula 4 - Componentes e Estados ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%204)
 
 [Aula 5 - Pros e Callback ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%205)
+
+[Aula 6 - Callback](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%206)
+
+[Aula 7 - Estilos](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%207)
