@@ -1,4 +1,4 @@
-# Sétima Aula Calculadora do IPhone
+# Oitava Aula - Calculadora do IPhone
 
 Nesta aula começamos um novo projeto, no fim dele teremos uma calculadora funcional seguindo o modelo do IPhone
 
