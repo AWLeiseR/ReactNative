@@ -1,8 +1,23 @@
-# Oitava Aula - Calculadora do IPhone
+# Oitava Aula - Calculadora
 
 Nesta aula começamos um novo projeto, no fim dele teremos uma calculadora funcional seguindo o modelo do IPhone
 
 ![](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%208/calculadora.jpeg)
+
+* index.js
+
+```Javascript
+/**
+ * @format
+ */
+
+import {AppRegistry} from 'react-native';
+import App from './src/pages/main/Main';
+import {name as appName} from './app.json';
+
+AppRegistry.registerComponent(appName, () => App);
+
+```
 
 * src/pages/main/Main.js
 
@@ -81,32 +96,28 @@ export default Styles
 * src/pages/button/Styles.js
 
 ```Javascript
+import {StyleSheet, Dimensions} from 'react-native'
 
-import React from 'react'
-import { TouchableOpacity, View, Text, Dimensions } from 'react-native'
-import Styles from './Styles'
+const Styles = StyleSheet.create({
 
-class Button extends React.Component {
-    render(){
-        const stylesButton = [Styles.Button]
-        if(this.props.tamanho === 2){
-            stylesButton.push({ 
-                 width: (Dimensions.get('window').width / 5) * 2,
-                 alignItems: 'flex-start',
-                 paddingLeft: Dimensions.get('window').width/19})
-        }
-        stylesButton.push({ backgroundColor: this.props.color })
-        return(
-            <TouchableOpacity activeOpacity={0.8} >
-                <View style={stylesButton}>
-                    <Text style={[Styles.Text, { color: this.props.labelColor ? this.props.labelColor : '#fff'}]}>{ this.props.label }</Text>
-                </View>
-            </TouchableOpacity>
-        )
+    Button:{
+        height: Dimensions.get('window').width/5,
+        width: Dimensions.get('window').width/5,
+        margin: Dimensions.get('window').height/70,
+        borderRadius: Dimensions.get('window').width/2.5,
+        backgroundColor: '#f0f0f0',
+        alignItems: 'center',
+        justifyContent: 'center'
+    },
+    Text:{
+        fontSize: Dimensions.get('screen').fontScale * 30,
+        textAlign: 'center'
     }
-}
 
-export default Button 
+
+})
+
+export default Styles
 ```
 
 ## Veja também
