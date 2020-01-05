@@ -1,6 +1,6 @@
 # Décima Aula - Calculadora
 
-Segue o código da aula comentado 
+Segue o código da aula comentado. 
 
 * src/pages/main/Main.js
 
@@ -226,7 +226,7 @@ export default Button
 
 * src/pages/button/Styles.js
 
-Os arquivos acima continuam idênticos à aula anterior. [Clique aqui](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208) para ver os códigos da última aula.
+Os arquivos acima continuam idênticos. [Clique aqui](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208) para ver os códigos.
 
 #### Tarefa: implemetar todas as operações da calculadora ####
 
