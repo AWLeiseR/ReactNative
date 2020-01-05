@@ -26,7 +26,7 @@ Aulas Anteriores:
 
 [Aula 2 - Conseitos de JavaScript ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
 
-[Pré aula - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula)
+[Pré aula - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202)
 
 Proxima Aula:
 

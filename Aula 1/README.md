@@ -7,6 +7,6 @@ https://code.visualstudio.com/
 
 Proxima seção: 
 
-[Pré aula 2 - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula) 
+[Pré aula 2 - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202) 
 
 [Início](https://github.com/AWLeiseR/ReactNative) 

@@ -4,7 +4,7 @@
 
 [Aula 1 - instalação ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201)
 
-[Pré aula 2 - Primeiro projeto ](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202)
+[Pré aula 2 - Primeiro projeto ](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202%202)
 
 [Aula 2 - Conceitos de JavaScript ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)
 
