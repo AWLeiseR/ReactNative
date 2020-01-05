@@ -1,6 +1,6 @@
 # Décima Aula - Calculadora
 
-* Segue o código da aula comentado 
+Segue o código da aula comentado 
 
 * src/pages/main/Main.js
 
