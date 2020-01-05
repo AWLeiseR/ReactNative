@@ -21,3 +21,5 @@
 [Aula 8 - Calculadora](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208)
 
 [Aula 9 - Calculadora (continuação) ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%209)
+
+[Aula 10 - Calculadora (conclusão) ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%2010)
