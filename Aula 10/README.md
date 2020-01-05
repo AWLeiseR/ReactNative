@@ -36,7 +36,7 @@ class Main extends React.Component {
         //chama metodo que modifica os estados
         this.setState({
             
-            //alteracao da variavel display valeu
+            //alteracao da variavel display value
             //utilizando if ou condicional terciaria, (condicao ? verdadeiro : falso)
             displayValue: this.state.displayValue === 0 ? digit : this.state.displayValue + digit 
         
@@ -55,7 +55,7 @@ class Main extends React.Component {
         //a variavel values do STATE recebe a variavel digitos
         this.setState({values: digitos})
         
-        //comando para imprimir algo no terminal, no caso 
+        //comando para imprimir algo no terminal a varivael values
         console.log(this.state.values)
     
     }
@@ -65,7 +65,7 @@ class Main extends React.Component {
         
         //verifica se a variavel passada e igual a '='
         if(operator === "=") {
-            //casa seja concatena 1ª elemento de values mais operador e 2ª elemento de values
+            //casa seja concatena 1º elemento de values mais operador e 2º elemento de values
             let resultado = this.state.values[0] + this.state.operator + this.state.values[1] 
             //imprime o resultado no terminal
             console.log(resultado)
@@ -193,9 +193,9 @@ class Button extends React.Component {
             stylesButton.push({ 
                 //lagura com base na tela
                 width: (Dimensions.get('window').width / 5) * 2.25,
-                //alinhamentod os itens
+                //alinhamento os itens
                 alignItems: 'flex-start',
-                //espaco interno do lado esquerdo
+                //espacamento interno do lado esquerdo
                 paddingLeft: Dimensions.get('window').width/19})
       
         }
@@ -205,7 +205,7 @@ class Button extends React.Component {
         return(
             //componente para botao que ao clicado muda a sua tonalidade indicando o toque
             <TouchableOpacity activeOpacity={0.9} onPress={() => this.props.funcao(this.props.label)}>
-                {/*are de visualizacao que recebe o vetor de style*/}
+                {/*area de visualizacao que recebe o vetor de style*/}
                 <View style={stylesButton}>
                     {/*componente para o texto*/}
                     <Text style={[Styles.Text, { color: this.props.labelColor ? this.props.labelColor : '#fff'}]}>{ this.props.label }</Text>
@@ -228,7 +228,7 @@ export default Button
 
 Os arquivos acima continuam idênticos à aula anterior. [Clique aqui](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208) para ver os códigos da última aula.
 
-*Tarefa: implemetar todas as operações da calculadora
+#### Tarefa: implemetar todas as operações da calculadora ####
 
 ## Veja também
 
