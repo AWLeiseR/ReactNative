@@ -5,8 +5,8 @@ https://code.visualstudio.com/
 
 ## Veja também
 
-Proxima seção: 
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Próxima seção: 
 
 [Pré aula 2 - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202) 
-
-[Início](https://github.com/AWLeiseR/ReactNative) 

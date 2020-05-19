@@ -22,12 +22,12 @@ Se tudo ocorrer como esperado o resultado deve ser igual a imagem a seguir.
 
 ## Veja também
 
-Seção Anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative)
 
-[Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201) 
+Aula Anterior: 
 
-[Início](https://github.com/AWLeiseR/ReactNative) 
+[Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201)  
 
-Proxima seção:
+Próxima seção:
 
  [Aula 2 - Conceitos de JavaScript](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%202)

@@ -232,8 +232,8 @@ Os arquivos acima continuam idênticos. [Clique aqui](https://github.com/AWLeise
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative)
+
+Aula anterior: 
 
 [Aula 9 - Calculadora (continuação) ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%209)
-
-[Início](https://github.com/AWLeiseR/ReactNative)

@@ -1,4 +1,4 @@
-# Sétima aula Estilos
+# Sétima aula - Estilos
 
 [Documentação Flex](http://facebook.github.io/react-native/docs/flexbox)
 
@@ -10,9 +10,12 @@
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Aula anterior: 
 
 [Aula 6 - Callback ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%206)
 
-[Início](https://github.com/AWLeiseR/ReactNative)
+Próxima aula:
 
+[Aula 8 - Calculadora](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208)

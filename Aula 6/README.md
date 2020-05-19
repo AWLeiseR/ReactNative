@@ -1,4 +1,4 @@
-# Sexta Aula Callbacks
+# Sexta Aula - Callbacks
 
 * App.js
 
@@ -76,8 +76,12 @@ export default MeuBotao
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative)
+
+Aula anterior: 
 
 [Aula 5 - Props e Callback ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%205)
 
-[Início](https://github.com/AWLeiseR/ReactNative)
+Próxima Aula:
+
+[Aula 7 - Estilos](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%207)

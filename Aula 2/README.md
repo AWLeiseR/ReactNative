@@ -10,10 +10,14 @@
 
 ## Veja também
 
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Aulas anteriores:
+
 [Aula 1 - instalação](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201)
 
 [Pré aula - primeiro projeto](https://github.com/AWLeiseR/ReactNative/tree/master/Pr%C3%A9%20aula%202)
 
-Proxima seção: 
+Próxima seção: 
 
 [Aula 3 - Componets](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%203)
