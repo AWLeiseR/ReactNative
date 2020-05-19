@@ -78,8 +78,12 @@ Os arquivos acima continuam idênticos à aula anterior. [Clique aqui](https://g
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative)
+
+Aula anterior: 
 
 [Aula 8 - Calculadora ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%208)
 
-[Início](https://github.com/AWLeiseR/ReactNative)
+Próxima aula:
+
+[Aula 10 - Calculadora (conclusão) ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%2010)

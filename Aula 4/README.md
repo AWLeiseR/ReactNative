@@ -91,8 +91,12 @@ export default App
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Aula anterior: 
 
 [Aula 3 - Componentes](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%203)
 
-[Início](https://github.com/AWLeiseR/ReactNative) 
+Próxima Aula:
+
+[Aula 5 - Pros e Callback ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%205)

@@ -1,4 +1,4 @@
-# Quinta Aula Props e Callbacks
+# Quinta Aula - Props e Callbacks
 
 [PDF da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%205/Props%20e%20Callbacks.pdf)
 
@@ -82,8 +82,12 @@ export default App
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative) 
+
+Aula anterior: 
 
 [Aula 4 - Componentes](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%204)
 
-[Início](https://github.com/AWLeiseR/ReactNative) 
+Próxima Aula:
+
+[Aula 6 - Callback](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%206)

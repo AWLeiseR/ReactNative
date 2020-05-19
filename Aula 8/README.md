@@ -122,8 +122,12 @@ export default Styles
 
 ## Veja também
 
-Seção anterior: 
+[Início](https://github.com/AWLeiseR/ReactNative)
+
+Aula anterior: 
 
 [Aula 7 - Estilos ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%207)
 
-[Início](https://github.com/AWLeiseR/ReactNative)
+Próxima aula:
+
+[Aula 9 - Calculadora (continuação) ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%209)
