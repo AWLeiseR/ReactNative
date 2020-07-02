@@ -1,6 +1,6 @@
 # ReactNative
 
-## Repositório destinado ao curso de react-native
+## Repositório destinado ao aprendizado de react-native
 
 [Aula 1 - instalação ](https://github.com/AWLeiseR/ReactNative/tree/master/Aula%201)
 

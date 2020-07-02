@@ -4,7 +4,28 @@
 
 [Pdf da aula](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%203/Componentes%20-%20Parte%201.pdf)
 
+* Código de exemplo está no link abaixo ou no quadro.
+
 [Código da Prática 1](https://github.com/AWLeiseR/ReactNative/blob/master/Aula%203/App.js)
+
+```Javascript
+import React from 'react'
+import {View, Text, Button} from 'react-native'
+
+const App = () => {
+
+    return(
+        <View>
+            <Text>Olá Mundo!</Text>
+            <Button title='Enviar Mensagem'
+                    onPress={()=>null}/>
+        </View>
+    )
+
+}
+
+export default App
+```
 
 ##### Material extra
 
@@ -14,11 +35,7 @@
 
 * Color Highlight
 
-* GitLens
-
-## Observação Importante
-
-*A partir da próxima aula, não iremos mais ajudar a resolver problemas de instalação do ambiente de desenvolvimento do React Native durante a aula. Caso ainda tenha algum problema, procure algum dos monitores.
+* GitLens (posibilita melhor interação com o github)
 
 ## Veja também
 

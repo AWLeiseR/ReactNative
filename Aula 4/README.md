@@ -73,6 +73,7 @@ export default App
 * Importação de componentes: ` import NomeDoComponente from './NomeDoArquivo' `.
 
 * **export default** deve conter o nome da classe e não do arquivo. Por exemplo:
+
 `export default NomeDaClasse`.
 
 #### Desafios

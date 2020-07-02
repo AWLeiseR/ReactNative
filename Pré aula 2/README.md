@@ -2,11 +2,14 @@
 
 ### Criando um Projeto
 
-Escolha um diretório(pasta) para armazenar seus projetos. A seguir acesse ele pelo terminal(CMD).
+* Escolha um diretório(pasta) para armazenar seus projetos. A seguir abra o terminal e acesse ele .
+    * Para abrir o terminal basta clicar "Windows" + "R" e digitar "cmd"
 
 `$ cd diretorioSelecionado`
 
-Após isso execute o comando
+Exemplo : `$ cd C:\User\Documentos\Projetos`
+
+* Após entrar no diretorio (pasta) execute o seguinte comando:
 
 `$ react-native init meuPrimeiroProjeto`
 
