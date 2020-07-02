@@ -2,7 +2,7 @@
 
 * Para como instalar o react-native no macOS e no Linux acesse o site abaixo.
 
-https://docs.rocketseat.dev/ambiente-react-native/introducao
+https://react-native.rocketseat.dev/
 
 ## Windows 
 
