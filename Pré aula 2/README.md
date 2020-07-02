@@ -19,7 +19,7 @@ Depois de concluído esse processo, abra o seu emulador ou conecte seu celular a
 
 Se tudo ocorrer como esperado o resultado deve ser igual a imagem a seguir.
 
-![](https://github.com/AWLeiseR/ReactNative/blob/master/Pr%C3%A9%20aula/meuPrimeiroProjeto.png)
+![](https://github.com/AWLeiseR/ReactNative/blob/master/Pr%C3%A9%20aula%202/meuPrimeiroProjeto.png)
 
 * Obs: não fechem a janela do node que irá abrir no decorrer do processo. 
 
