@@ -6,7 +6,9 @@ https://react-native.rocketseat.dev/
 
 ## Windows 
 
-    Video tutorial https://www.youtube.com/watch?v=ioq0VwJGlU4 feito pelo nosso querido Renan.
+    Video tutorial feito pelo nosso querido Renan.
+    
+    https://www.youtube.com/watch?v=ioq0VwJGlU4 
 
 # Link para download do Visual Studio Code
     Para editar nossos códigos iremos utilizar o VSCode, pois é possivel adicionar várias extensões e ligação com o github.
